@@ -4,7 +4,7 @@ Release Date : 12/23/2020 `Version 1.0`
 > + Initial Commit
 
 # Older Changelog
--
+Empty.
 
 # Credit
 + Main Github Page : [https://github.com/haryobagas/](https://github.com/haryobagas/)
