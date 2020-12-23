@@ -1,0 +1,13 @@
+CHANGELOG.md
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+btext/__init__.py
+btext/core.py
+btext/utill.py
+btext.egg-info/PKG-INFO
+btext.egg-info/SOURCES.txt
+btext.egg-info/dependency_links.txt
+btext.egg-info/requires.txt
+btext.egg-info/top_level.txt
