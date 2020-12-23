@@ -2,7 +2,7 @@
 Bear Au Jus Text (btext) is a tool used for processing a text/string, optimized for data science and data analytics.\
 btext can also implemented with pandas dataframe.
 
-> + Latest Version Github Directory [1.0](https://github.com/haryobagas/bearaujus/tree/main/1.0)
+> + Latest Version Github Directory [1.0](https://github.com/haryobagas/btext/tree/main/1.0)
 > + PyPI [https://pypi.org/project/btext/](https://pypi.org/project/btext/)
 > + Webpages [https://haryobagas.github.io/btext/](https://haryobagas.github.io/btext/)
 
